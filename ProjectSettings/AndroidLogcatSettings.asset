@@ -1,9 +1,9 @@
 {
     "m_SelectedDeviceId": "331f6143",
     "m_SelectedPackage": {
-        "deviceId": "331f6143",
-        "name": "com.DefaultCompany.HockeyBreaker",
-        "processId": 18401,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -18,12 +18,18 @@
             "deviceId": "331f6143",
             "name": "com.unity3d.mobileremote",
             "processId": 20650,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "331f6143",
             "name": "com.DefaultCompany.HockeyBreaker",
             "processId": 18401,
+            "exited": true
+        },
+        {
+            "deviceId": "331f6143",
+            "name": "com.miui.home",
+            "processId": 2607,
             "exited": false
         }
     ],
